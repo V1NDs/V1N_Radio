@@ -21,7 +21,7 @@
 </details>
 
 ### 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍
-> Et brugbart og simpelt script til at låse radioer til bestemte ranks på vRP servere.
+> 𝙴𝚝 𝚋𝚛𝚞𝚐𝚋𝚊𝚛𝚝 𝚘𝚐 𝚜𝚒𝚖𝚙𝚎𝚕𝚝 𝚜𝚌𝚛𝚒𝚙𝚝 𝚝𝚒𝚕 𝚊𝚝 𝚕å𝚜𝚎 𝚛𝚊𝚍𝚒𝚘𝚎𝚛 𝚝𝚒𝚕 𝚋𝚎𝚜𝚝𝚎𝚖𝚝𝚎 𝚛𝚊𝚗𝚔𝚜 𝚙å 𝚟𝚁𝙿 𝚜𝚎𝚛𝚟𝚎𝚛𝚎.
 
 ### 𝐃𝐄𝐏𝐄𝐍𝐃𝐄𝐍𝐂𝐈𝐄𝐒
 - [x] 𝚟𝚁𝙿 𝟶.𝟻.
