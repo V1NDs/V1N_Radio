@@ -30,7 +30,7 @@
 <img src="https://imgur.com/rrBuTxQ.png" alt="Config" width="480px" height="270px">
 
 ### 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐓𝐈𝐎𝐍
-> Inde i rp-radio -> client.lua paa linje 179 erstarter i `exports["mumble-voip"]:SetRadioChannel(id)` med `TriggerServerEvent("V1N_Radio:checkRank", id)`
+> 𝙸𝚗𝚍𝚎 𝚒 𝚛𝚙-𝚛𝚊𝚍𝚒𝚘 -> 𝚌𝚕𝚒𝚎𝚗𝚝.𝚕𝚞𝚊 𝚙𝚊𝚊 𝚕𝚒𝚗𝚓𝚎 𝟷𝟽𝟿 𝚎𝚛𝚜𝚝𝚊𝚛𝚝𝚎𝚛 𝚒 `𝚎𝚡𝚙𝚘𝚛𝚝𝚜["𝚖𝚞𝚖𝚋𝚕𝚎-𝚟𝚘𝚒𝚙"]:𝚂𝚎𝚝𝚁𝚊𝚍𝚒𝚘𝙲𝚑𝚊𝚗𝚗𝚎𝚕(𝚒𝚍)` 𝚖𝚎𝚍 `𝚃𝚛𝚒𝚐𝚐𝚎𝚛𝚂𝚎𝚛𝚟𝚎𝚛𝙴𝚟𝚎𝚗𝚝("𝚅𝟷𝙽_𝚁𝚊𝚍𝚒𝚘:𝚌𝚑𝚎𝚌𝚔𝚁𝚊𝚗𝚔", 𝚒𝚍)`
 
 ### 𝐌𝐄𝐃𝐈𝐄𝐑
 [<img src="https://cdn.vox-cdn.com/thumbor/VlgzMj5_REvgw7vItUeOy0KSYnY=/0x172:2400x1429/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11946613/discord_logo_wordmark_2400.jpg" width="243px" height="127.575px">](https://discord.gg/ECUxET82SD) [<img src="https://1000logos.net/wp-content/uploads/2017/05/Old-YouTube-logo.jpg" width="243px" height="127.575px">](https://www.youtube.com/channel/UCxoJ3jF7onq1TRkOnAZAF8w)
