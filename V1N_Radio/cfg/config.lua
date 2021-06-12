@@ -20,6 +20,8 @@ Github: https://github.com/V1NDs
 cfg = {}
 
 --==Script indstillinger==--
+cfg.notification = "pNotify" -- "pNotify" eller "mythic_notify" eller "" for ingen notification.
+
 cfg.permissions = {
     [1] = {
         "Politi-Job"
