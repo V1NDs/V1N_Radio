@@ -49,6 +49,7 @@ RegisterServerEvent("V1N_Radio:checkRank", function(channel)
 
         access = false
     else
+        access = true
         TriggerClientEvent("V1N_Radio:addToChannel", source, user_id, channel)
     end
 
